@@ -1,0 +1,31 @@
+<div class="container">
+    <div class="input-group">
+        <div class="results">
+            <ul class="list-group list-group-horizontal">
+                <li class="list-group-item one">IP ADDRESS
+                    <div class="data"  *ngIf="data">
+                        {{data.ip}}
+                    </div>
+                       
+                </li>
+                <li class="list-group-item">LOCATION
+                    <div class="data" *ngIf="data">
+                        {{ data.location.city}}, 
+                        {{ data.location.country}}
+                    </div>
+                </li>
+                <li class="list-group-item">TIME ZONE
+                    <div class="data" *ngIf="data">
+                        UTC {{ data.location.timezone}}
+                    </div>
+                </li>
+                <li class="list-group-item">ISP
+                    <div class="data" *ngIf="data">
+                        {{ data.isp}} &nbsp;
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+</div>

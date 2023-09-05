@@ -1,0 +1,30 @@
+h1 {
+    padding-top: 20px;
+    ;
+    font-family: 'Rubik', sans-serif;
+    position: relative;
+    color: white;
+    text-align: center;
+}
+
+img {
+    position: absolute;
+    height: 300px;
+}
+
+#map {
+    height: 500px;
+    position: relative;
+}
+
+
+@media screen and (max-width: 375px) {
+    img {
+        height: 420px;
+    }
+
+    #map {
+        height: 400px;
+    }
+
+}

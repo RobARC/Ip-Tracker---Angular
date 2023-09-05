@@ -1,0 +1,30 @@
+.container {
+    display: block;
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+
+.input-group-text {
+    position: relative;
+    background-color: black;
+}
+
+.input-group{
+    padding-top: 25px;
+    width: 100%;
+}
+
+span {
+    position: relative;
+}
+
+@media screen and  (max-width: 375px) {
+    .container {
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+    }
+}
