@@ -39,8 +39,10 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repository ](https://github.com/RobARC/app-ip-address-tracker)
+- Live Site URL: [Deployed in Vercele](https://app-ip-address-tracker-nine.vercel.app/)
+
+![](./src/assets/images/verceldeployment.png)
 
 ## My process
 
