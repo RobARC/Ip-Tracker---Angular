@@ -28,3 +28,11 @@ span {
     margin-left: 0px;
     }
 }
+
+@media screen and  (max-width: 720px) {
+    .container {
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 70px;
+    }
+}
