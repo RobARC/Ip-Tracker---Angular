@@ -40,9 +40,15 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repository ](https://github.com/RobARC/app-ip-address-tracker)
-- Live Site URL: [Deployed in Vercele](https://app-ip-address-tracker-nine.vercel.app/)
+- Live Site URL: [Deployed in Vercel](https://app-ip-address-tracker-nine.vercel.app/)
 
-<img src="./src/assets/images/verceldeployment.png " alt="Image deployed in Vercel"/>
+### Desktop View
+
+<img src="./src/assets/images/verceldeployment.png" alt="Image deployed in Vercel"/>
+
+### Mobile View
+
+<img src="./src/assets/images/mobileView.png" alt="Image deployed in Mobile View"/>
 
 ## My process
 
