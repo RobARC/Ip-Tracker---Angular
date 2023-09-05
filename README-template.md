@@ -53,6 +53,8 @@ Users should be able to:
 
 ### What I learned
 
+First, you should create a count in Geolocation API by IPify, to run this proyect.
+
 What did I learn from this project? The first thing that comes to mind is to use environment variables to hide important data, such as keys. I have used them in other non-Angular projects. 
 
 I also learned about the "ngAfterContentInit" method; which is a lifecycle method in Angular that is used in components to perform actions after the projected content in a component has been initialized. This method is triggered once Angular has initialized the properties with projected content on a component. 
