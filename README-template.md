@@ -101,9 +101,9 @@ getAll(ip: string): Observable<any>{
 for mobile-friendly interactive maps
 - [IP Geolocation API](https://geo.ipify.org/) - Our real-time IP Geolocation API lets you look up IP locations accurately.
 
-- [Angular] (https://angular.io/) - My favorite framework.
+- [Angular](https://angular.io/) - My favorite framework.
 
--[Angular University] (https://angular-university.io/) - Courses for All Levels Videos and E-Books.
+- [Angular University](https://angular-university.io/) - Courses for All Levels Videos and E-Books.
 
 ## Author
 
